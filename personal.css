@@ -1,3 +1,7 @@
+html{
+  scroll-behavior: smooth;
+}
+
 /* Variáveis para cores */
 :root {
   --azul-escuro: #001f3f;
